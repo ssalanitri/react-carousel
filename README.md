@@ -1,6 +1,6 @@
 # React Carousel Demo
 
-## Using 
+This demo use the folowing packages:
 
 react-responsible-carousel
 material-ui
