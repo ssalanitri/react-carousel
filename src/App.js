@@ -31,7 +31,7 @@ const App = () => {
   return (
     <>
     <Container className={classes.container}>
-    <Typography variant='h3' component='div' className={classes.root} >React Carousel</Typography>
+    <Typography variant='h3' component='div' className={classes.root} >React Carousel Demo</Typography>
       <MainCarousel/>
     </Container>
     </>
